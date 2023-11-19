@@ -1,0 +1,26 @@
+/* CommonComponent1.css */
+.component1 {
+  background-color: #F7F7F7;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+/* CommonComponent2.css */
+.container {
+  padding: 20px;
+  background-color: #E8E8E8;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin: 20px 0;
+}
+
+/* CommonComponent3.css */
+.container3 {
+  background-color: #EFF6FF;
+  padding: 10px;
+  border: 1px solid #4A90E2;
+  border-radius: 10px;
+}
+
